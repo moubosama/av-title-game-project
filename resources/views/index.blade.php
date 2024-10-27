@@ -30,7 +30,7 @@
             @{{ message }}
         </p>
         <p v-else class="ng">
-            *現在、問題が
+            *現在、問題がtest
         </p>
     </div>
 
